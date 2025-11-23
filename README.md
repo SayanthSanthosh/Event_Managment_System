@@ -1,10 +1,5 @@
-# Event_Managment_System
+# Event_Managment_System – React Project
 
-Got it! Here’s an **updated README** including the **EventList** component.
-
----
-
-# 🗓️ Event Manager – React Project
 
 A simple and interactive **Event Management** web application built using **React**.
 This app allows users to create events, add tasks, assign team members, mark progress, and manage everything visually.
